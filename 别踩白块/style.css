@@ -1,0 +1,44 @@
+       #score{
+            text-align: center;}
+
+        h2 {
+            text-align: center;    }
+
+        div{
+            margin: 0 auto;
+            width: 100px;
+            height: 100px;}
+
+        #main {
+            width: 400px;
+            height: 400px;
+            background: white;
+            border: 2px solid gray;
+            margin: 0 auto;
+            position: relative;
+            overflow: hidden;}
+
+        #con {
+            width: 100%;
+            height: 400px;
+            position: relative;
+            top: -100px;
+            border-collapse:collapse;}
+
+        .row{
+            height: 100px;
+            width: 100%;}
+
+        .cell{
+            height: 100px;
+            width: 100px;
+            float: left;}
+
+        .black {
+            background: black;}
+        #bt{
+            height: 30px;
+            width: 100px;
+            margin: 10px;
+
+        }
